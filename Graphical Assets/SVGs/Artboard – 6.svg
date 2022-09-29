@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="381" height="381" viewBox="0 0 381 381">
+  <defs>
+    <clipPath id="clip-Artboard_6">
+      <rect width="381" height="381"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_6" data-name="Artboard – 6" clip-path="url(#clip-Artboard_6)">
+    <path id="Icon_awesome-telegram-plane" data-name="Icon awesome-telegram-plane" d="M245.367,23.315,208.234,198.433c-2.8,12.359-10.107,15.436-20.489,9.613l-56.578-41.692-27.3,26.257c-3.021,3.021-5.548,5.548-11.371,5.548l4.065-57.622L201.423,45.781c4.559-4.065-.989-6.317-7.086-2.252L64.7,125.156,8.891,107.688c-12.14-3.79-12.359-12.14,2.527-17.962l218.294-84.1c10.107-3.79,18.951,2.252,15.655,17.688Z" transform="translate(67.034 82.929)" fill="#fff"/>
+  </g>
+</svg>

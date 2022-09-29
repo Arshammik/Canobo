@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262" height="101" viewBox="0 0 262 101">
+  <defs>
+    <clipPath id="clip-Desktop">
+      <rect width="262" height="101"/>
+    </clipPath>
+  </defs>
+  <g id="Desktop" clip-path="url(#clip-Desktop)">
+    <g id="Group_17" data-name="Group 17" transform="translate(-1337 -644)">
+      <rect id="Rectangle_114" data-name="Rectangle 114" width="195" height="47" transform="translate(1368 671)" fill="#e52620"/>
+      <text id="Download_PDF" data-name="Download PDF" transform="translate(1396 701)" fill="#fff" font-size="30" font-family="AdobeArabic-Regular, Adobe Arabic"><tspan x="0" y="0">Download PDF</tspan></text>
+    </g>
+  </g>
+</svg>

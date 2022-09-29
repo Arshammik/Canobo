@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="101" viewBox="0 0 378 101">
+  <defs>
+    <clipPath id="clip-Mobile_1">
+      <rect width="378" height="101"/>
+    </clipPath>
+  </defs>
+  <g id="Mobile_1" data-name="Mobile 1" clip-path="url(#clip-Mobile_1)">
+    <rect id="Rectangle_48674" data-name="Rectangle 48674" width="354" height="50" transform="translate(12 26)" fill="#e52620"/>
+    <text id="Back_to_homepage" data-name="Back to homepage" transform="translate(51 37)" fill="#fff" font-size="26" font-family="AdobeArabic-Regular, Adobe Arabic"><tspan x="-70.979" y="19">Back to homepage</tspan></text>
+  </g>
+</svg>

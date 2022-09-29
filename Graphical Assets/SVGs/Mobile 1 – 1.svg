@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="101" viewBox="0 0 378 101">
+  <defs>
+    <clipPath id="clip-Mobile_1_1">
+      <rect width="378" height="101"/>
+    </clipPath>
+  </defs>
+  <g id="Mobile_1_1" data-name="Mobile 1 – 1" clip-path="url(#clip-Mobile_1_1)">
+    <rect id="Rectangle_48675" data-name="Rectangle 48675" width="354" height="47" transform="translate(12 27)" fill="#e52620"/>
+    <text id="Download_PDF" data-name="Download PDF" transform="translate(136 55)" fill="#fff" stroke="#fff" stroke-width="0.5" font-size="23" font-family="AdobeArabic-Regular, Adobe Arabic"><tspan x="0" y="0">Download PDF</tspan></text>
+  </g>
+</svg>
