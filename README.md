@@ -1,5 +1,6 @@
-![Artboard – 5](https://user-images.githubusercontent.com/92790984/193080106-57b364d8-d6e4-4dcc-8107-c01bf9452c5a.svg)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/92790984/193080106-57b364d8-d6e4-4dcc-8107-c01bf9452c5a.svg" alt="Artboard – 5" style="width:450px;"/>
+</p>
 
 ## Overview
 We started “Computational Analysis Network on Biological Observation” CANOBO in mid 2022 to give researchers easy and powerful tools for analyzing biological datas. Our mission is to provide a work space for every researchers to analyse their projects free and accessible.
@@ -14,7 +15,7 @@ We started “Computational Analysis Network on Biological Observation” CANOBO
 ExpressA is an integrative tool to analyze your microarray or high throughput data more efficiently and accessible. This tool can use Microarray and RNASeq data to analysis and evaluate Differentially Expressed Genes for each dataset. 
 It can use raw data and API form GEO
 
-#### Tool URL: https://canobo.org/#/
+#### Tool URL: https://canobo.org
 #### Here is the tutorial link : https://www.youtube.com/watch?v=YuqrvjRwrVk
 
 #### Some Screenshots of this tool:
