@@ -3,7 +3,6 @@
 
 ## Overview
 We started “Computational Analysis Network on Biological Observation” CANOBO in mid 2022 to give researchers easy and powerful tools for analyzing biological datas. Our mission is to provide a work space for every researchers to analyse their projects free and accessible.
-This Website craea
 
 #### The website Has multiple Tools
 
