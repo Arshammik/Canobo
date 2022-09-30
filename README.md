@@ -13,7 +13,7 @@ We started “Computational Analysis Network on Biological Observation” CANOBO
 
 #### _Initial release : 09.15.2022_
 ExpressA is an integrative tool to analyze your microarray or high throughput data more efficiently and accessible. This tool can use Microarray and RNASeq data to analysis and evaluate Differentially Expressed Genes for each dataset. 
-It can use raw data and API form GEO
+It can use raw data and GEO database.
 
 #### Tool URL: https://canobo.org
 #### Here is the tutorial link : https://www.youtube.com/watch?v=YuqrvjRwrVk
