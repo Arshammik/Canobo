@@ -8,7 +8,6 @@ We started “Computational Analysis Network on Biological Observation” CANOBO
 #### The website Has multiple Tools
 
 ## 1.Express-A 
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 
 
 #### _Initial release : 09.15.2022_
@@ -26,3 +25,30 @@ It can use raw data and GEO database.
 
 ## 2.Protein Assembly 
 #### _Initial release : Not Ready_
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## 3.DNA Read Mapping
+#### _Initial release : mid 2024_
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## 4.DNA and RNA Translator
+#### _Initial release : late 2022_
+<br />
+<br />
+<br />
+<br />
+<br />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/92790984/193367804-a21c49eb-36f0-4a41-bb67-7167266f24e1.svg" alt="Untitled-1-02" style="width:200px;"/>
+</p>
+
+
+
