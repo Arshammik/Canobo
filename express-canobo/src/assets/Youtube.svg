@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="314" height="72" viewBox="0 0 314 72">
+  <defs>
+    <clipPath id="clip-Artboard_8">
+      <rect width="314" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_8" data-name="Artboard – 8" clip-path="url(#clip-Artboard_8)">
+    <g id="Group_47364" data-name="Group 47364" transform="translate(-1468 -133)">
+      <rect id="Rectangle_48848" data-name="Rectangle 48848" width="297" height="55" rx="16" transform="translate(1477 142)" fill="#e52620"/>
+      <path id="Icon_ionic-logo-youtube" data-name="Icon ionic-logo-youtube" d="M39.2,10.462a5.7,5.7,0,0,0-5.7-5.709C29.229,4.57,24.874,4.5,20.426,4.5H19.039c-4.44,0-8.8.07-13.073.253a5.709,5.709,0,0,0-5.7,5.723c-.193,2.5-.277,5.006-.27,7.509Q-.012,21.741.262,25.5a5.715,5.715,0,0,0,5.7,5.73c4.486.19,9.088.274,13.766.267q7.03.021,13.766-.267a5.716,5.716,0,0,0,5.7-5.73c.185-2.51.27-5.013.262-7.523Q39.48,14.224,39.2,10.462ZM15.956,24.884V11.067l11.177,6.9Z" transform="translate(1499.006 151.499)" fill="#fff"/>
+      <text id="Watch_the_Tutorial_" data-name="Watch the Tutorial " transform="translate(1565 177)" fill="#fff" stroke="#fff" stroke-width="0.5" font-size="33" font-family="AdobeArabic-Regular, Adobe Arabic"><tspan x="0" y="0">Watch the Tutorial </tspan></text>
+    </g>
+  </g>
+</svg>
