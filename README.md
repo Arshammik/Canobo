@@ -15,7 +15,7 @@ ExpressA is an integrative tool to analyze your microarray or high throughput da
 It can use raw data and GEO database.
 
 #### Tool URL: https://express-a.canobo.org/#/
-#### Here is the tutorial link : https://www.youtube.com/watch?v=YuqrvjRwrVk
+#### Here is the [tutorial link](https://www.youtube.com/watch?v=YuqrvjRwrVk)
 
 #### Some Screenshots of this tool:
 
