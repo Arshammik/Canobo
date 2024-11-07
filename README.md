@@ -23,32 +23,5 @@ It can use raw data and GEO database.
 <img width="1772" alt="Screen Shot 1401-07-07 at 8 28 12 PM" src="https://user-images.githubusercontent.com/92790984/193092942-b218f45a-6d51-46bd-8e11-924dc6a8f9c8.png">
 <img width="1772" alt="Screen Shot 1401-07-07 at 8 26 00 PM" src="https://user-images.githubusercontent.com/92790984/193092947-81db48f3-b5f6-436e-97b4-cc77aa2e9140.png">
 
-## 2.Protein Assembly 
-#### _Initial release : Not Ready_
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## 3.DNA Read Mapping
-#### _Initial release : mid 2024_
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## 4.DNA and RNA Translator
-#### _Initial release : late 2022_
-<br />
-<br />
-<br />
-<br />
-<br />
-<p align="center">
-<img src="https://user-images.githubusercontent.com/92790984/193367804-a21c49eb-36f0-4a41-bb67-7167266f24e1.svg" alt="Untitled-1-02" style="width:200px;"/>
-</p>
-
 
 
